@@ -1,14 +1,15 @@
 # HSC_ML
 ### Classifying HSC sources using machine learning without spectra
-These scripts explore galaxy/quasar/star classification from photometric sources observed from the HSC (Hyper Suprime-Cam) using machine learning.
+These scripts explore galaxy/quasar/star classification from photometric sources observed from the Hyper Suprime-Cam (HSC) using machine learning.
 
-I used matched sources with spectroscopically labelled sources from the SDSS (Sloan Digital Sky Survey) to train an optimised random forest classifier.
+I used matched sources with spectroscopically labelled sources from the Sloan Digital Sky Survey (SDSS) to train an optimised random forest classifier.
 
-Finally I used a non-linear dimension reduction technique (Uniform Manifold Approximation and Projection: UMAP) in fully-supervised schemes to visualise the separation of galaxies, quasars, and stars in a two-dimensional space.
+Finally I used the non-linear dimension reduction technique Uniform Manifold Approximation and Projection (UMAP) in fully-supervised schemes to visualise the separation of galaxies, quasars, and stars in a two-dimensional space.
 
 
 
-My datasets can be found from here : 
+
+My datasets can be found from here : https://zenodo.org/records/10628177
 
 
 
