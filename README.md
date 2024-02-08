@@ -1,5 +1,5 @@
 # HSC_ML
-### Classifying HSC sources using machine learing without spectra
+### Classifying HSC sources using machine learning without spectra
 These scripts explore galaxy/quasar/star classification from photometric sources observed from the HSC (Hyper Suprime-Cam) using machine learning.
 
 I used matched sources with spectroscopically labelled sources from the SDSS (Sloan Digital Sky Survey) to train an optimised random forest classifier.
